@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h3> I am Wai Leong </h3>
 <h3> I am learning DevOps with Jenkins + Github + Tomcat + Docker </h3>
-<h3> I am going to use Jenkins-Ansible to create docker image \& container </h3>
+<h3> I am going to use Jenkins-Ansible to create docker image & container... </h3>
